@@ -1,0 +1,2 @@
+This is a simple web api that allows you to manipulate todo data with http requests. I was unable to commit the babel node modules, which allow
+the software to downgrade from ES6 -> ES5 JS. Without this the application may not be able to run but you are still able to view the code.
